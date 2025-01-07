@@ -178,6 +178,33 @@ nav a {
     font-weight: 700;
 }
 
+/* footer section styles start */
+
+footer{
+    background-color: #0A0826;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.footer{
+    color: #FFF;
+}
+
+.footer-title{
+    padding: 60px 0 10px 0;
+   
+}
+
+.footer-sec-des{
+    margin-bottom: 20px;
+}
+
+.footer-img{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+   padding-bottom: 60px;
+}
 
 
 /* Responsive for small device */
