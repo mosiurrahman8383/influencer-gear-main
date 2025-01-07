@@ -125,10 +125,20 @@ nav a{
 /* Responsive for medium device */
 
 @media screen and (min-width: 576px) and (max-width: 996px) {
+
+    nav{
+        margin: 60px 3rem;
+    }
+
+    nav li{
+        margin-left: 1.1rem;
+    }
     .banner-container{
         flex-direction: column-reverse;
         background-position: top;
         padding: 0;
+        margin: auto 3rem;
+        text-align: center;
     }
     .banner-img img{
         padding: 40px 20px;
